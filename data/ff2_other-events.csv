@@ -1,0 +1,15 @@
+eventID,type,code,char_ID,with_ID
+1,sexualisation,1,3,N/A
+2,sexualisation,3,3,N/A
+3,sexualisation,3,7,N/A
+4,sexual activity,1,3,1
+5,sexualisation,3,11,N/A
+6,sexualisation,3,3,N/A
+7,sexualisation,2,7,15
+8,sexual activity,1,7,15
+8,sexual activity,1,15,7
+9,sexual activity,1,7,6
+9,sexual activity,1,6,7
+10,sexualisation,3,7,N/A
+11,sexualisation,3,3,N/A
+12,sexualisation,2,7,15

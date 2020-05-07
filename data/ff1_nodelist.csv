@@ -1,0 +1,20 @@
+char_ID,char_name,gender,age,ethnicity
+1,Mia Toretto,Female,21,Multi
+2,Brian O'Conner,Male,27,White
+3,Vince,Male,28,White
+4,Jesse,Male,24,White
+5,Leon,Male,26,White
+6,Letty,Female,22,Latinx
+7,Dominic Toretto,Male,33,Multi
+8,Harry,Male,45,White
+9,Hector,Male,30,Latinx
+10,Edwin,Male,25,Black
+11,Gimel,Female,,White
+12,Monica,Female,,Multi
+13,Danny Yamato,Male,24,Asian/Asian-American
+14,Lance Nguyen,Male,25,Asian/Asian-American
+15,Johnny Tran,Male,29,Asian/Asian-American
+16,Sgt. Tanner,Male,44,White
+17,Muse,Male,,White
+18,Agent Bilkins,Male,50,Black
+19,Ted Gassner,Male,41,White
