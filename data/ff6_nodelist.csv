@@ -1,0 +1,28 @@
+char_ID,char_name,gender,age,ethnicity
+1,Elena,Female,36,Latinx
+2,Dom,Male,45,Multi
+3,Brian,Male,39,White
+4,Riley Hicks,Female,31,White
+5,Hobbs,Male,41,Multi
+6,Oakes,Male,,White
+7,Roman,Male,34,Black
+8,Santiago,Male,,Latinx
+9,Benito,Male,,Latinx
+10,Tej,Male,35,Black
+11,Han,Male,41,Asian/Asian-American
+12,Gisele,Female,28,MENA
+13,Mia,Female,33,Multi
+14,Owen Shaw,Male,34,White
+15,Vegh,Female,24,White
+16,Klaus,Male,47,White
+17,Jah,Male,31,Asian/Asian-American
+18,Delinger,Male,,Black
+19,Adolfson,Male,32,White
+20,Ivory,Male,26,Black
+21,Letty,Female,34,Latinx
+22,Firuz,Male,38,White
+23,Davies,Male,50,White
+24,Terry,Male,,White
+25,Stasiak,Male,44,White
+26,Braga,Male,44,Latinx
+27,Deckard Shaw,Male,45,White

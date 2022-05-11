@@ -1,0 +1,24 @@
+char_ID,char_name,gender,age,ethnicity
+1,Mia Toretto,Female,30,Multi
+2,Brian O'Connor,Male,37,White
+3,Vince,Male,38,White
+4,Rosa,Female,22,Latinx
+5,Dominic Toretto,Male,43,Multi
+6,Zizi,Male,38,Latinx
+7,Capa,Male,,Black
+8,Reyes,Male,54,Latinx
+9,Hobbs,Male,38,Multi
+10,Alemeida,Male,45,Latinx
+11,Elena Neves,Female,34,Latinx
+12,Chato,Male,,Other/Unknown
+13,Wilkes,Male,36,Asian/Asian-American
+14,Macroy,Male,45,White
+15,Fusco,Male,33,Black
+16,Tej,Male,33,Black
+17,Roman,Male,32,Black
+18,Gisele,Female,25,MENA
+19,Leo,Male,39,Latinx
+20,Santos,Male,33,Latinx
+21,Han,Male,39,Asian/Asian-American
+22,Diogo,Male,28,Latinx
+23,Monica Fuentes,Female,37,Latinx

@@ -1,0 +1,21 @@
+char_ID,char_name,gender,age,ethnicity
+1,Dominic Toretto,Male,42,Multi
+2,Letty,Female,30,Latinx
+3,Han,Male,36,Asian/Asian-American
+4,Leo,Male,37,Latinx
+5,Santos,Male,31,Latinx
+6,Cara,Female,25,Latinx
+7,Juvenal,Male,,Latinx
+8,Brian O'Conner,Male,35,White
+9,Trinh,Female,27,Asian/Asian-American
+10,Penning,Male,50,White
+11,Stasiak,Male,40,White
+12,Mia,Female,28,Multi
+13,Virgil,Male,30,White
+14,David Park,Male,36,Asian/Asian-American
+15,Dwight,Male,29,White
+16,Gisele,Female,23,MENA
+17,Campos (Braga),Male,40,Latinx
+18,Fenix,Male,35,Black
+19,Malik,Male,28,Black
+20,Tash,Male,33,Latinx
