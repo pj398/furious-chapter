@@ -1,0 +1,1 @@
+This repo contains the data, R code and coding guide used in the collection and analysis of data for the chapter contributed by Jones & Gulam to the edited collection *Full-Throttle Franchise: The Culture, Commerce and Politics of the Fast & Furious Films*.
